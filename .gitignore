@@ -48,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# files added for example
+thumbs.db
